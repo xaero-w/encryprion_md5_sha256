@@ -12,7 +12,6 @@ puts "1. MD5"
 puts "2. SHA1"
 puts "3. SHA2"
 
-
 encryption_method = STDIN.gets.to_i
 
 result =
